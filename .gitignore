@@ -1,0 +1,8 @@
+# Made by build.sh
+TypingBox.app/
+*.o
+.build/
+
+# Other
+*.zip
+.DS_Store
